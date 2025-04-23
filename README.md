@@ -1,2 +1,1 @@
-# micro-econ
-Microeconomics
+# Microeconomics
